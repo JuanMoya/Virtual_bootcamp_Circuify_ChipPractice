@@ -11,6 +11,10 @@ Para descargar las herramientas, seguir el tutorial desarrollado por Jorge Iván
 
 Una vez instaladas las herramientas, clonar este repositorio dentro de la imagen del contenedor como se muestra en la siguiente imagen.
 
+```
+git clone https://github.com/JuanMoya/Virtual_bootcamp_Circuify_ChipPractice.git
+```
+
 <p align="center">
    <img src="./img/cloning_repo.png" width="600" />
 </p> 
